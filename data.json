@@ -1,0 +1,490 @@
+{
+  "university": "Daffodil International University",
+  "program_type": "Bachelor",
+  "faculties": [
+    {
+      "faculty": "Faculty of Science & Information Technology",
+      "departments": [
+        {
+          "department": "Computer Science and Engineering",
+          "short_name": "CSE",
+          "current_cost_bdt": "650000-850000",
+          "good_at_subjects": ["Math", "Programming", "Logic", "Problem Solving", "Software Design"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Software Engineer",
+            "DevOps Engineer",
+            "QA Engineer",
+            "Backend Developer",
+            "Mobile App Developer",
+            "Cloud Engineer",
+            "Data Scientist",
+            "Cyber Security Specialist",
+            "AI Engineer",
+            "Startup Founder",
+            "Frontend Developer",
+            "Game Developer",
+            "Backend Developer",
+            "Full Stack Developer",
+            "IT administrator",
+            "System Analyst"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Very High"
+        },
+        {
+          "department": "Software Engineering",
+          "short_name": "SWE",
+          "current_cost_bdt": "650000-850000",
+          "good_at_subjects": ["Programming", "Math", "Logic", "Software Design"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Software Engineer",
+            "DevOps Engineer",
+            "QA Engineer",
+            "Backend Developer",
+            "Mobile App Developer",
+            "Cloud Engineer",
+            "Data Scientist",
+            "Cyber Security Specialist",
+            "AI Engineer",
+            "Startup Founder",
+            "Frontend Developer",
+            "Game Developer",
+            "Backend Developer",
+            "Full Stack Developer"
+          ],
+          "major":[
+            "Major in Data Science",
+            "Major in Cyber Security",
+            "Major in Robotics",
+            "Non Major"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Very High"
+        },
+        {
+          "department": "Multimedia and Creative Technology",
+          "short_name": "MCT",
+          "current_cost_bdt": "500000-700000",
+          "good_at_subjects": ["Creativity", "Design", "Animation"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Graphic Designer",
+            "Animator",
+            "UI UX Designer",
+            "Video Editor"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Computing and Information Systems",
+          "short_name": "CIS",
+          "current_cost_bdt": "600000-800000",
+          "good_at_subjects": ["Programming", "Database", "Networking"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "System Analyst",
+            "Database Administrator",
+            "Network Engineer"
+          ],
+          "bangladesh_job_competition": "Medium-High",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Information Technology and Management",
+          "short_name": "ITM",
+          "current_cost_bdt": "550000-750000",
+          "good_at_subjects": ["Business", "Technology", "Management"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "IT Manager",
+            "Business Analyst",
+            "Cloud Specialist"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Environmental Science & Disaster Management",
+          "short_name": "ESDM",
+          "current_cost_bdt": "500000-700000",
+          "good_at_subjects": ["Biology", "Environment", "Geography"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Environmental Specialist",
+            "Disaster Management Officer",
+            "Climate Researcher"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Physical Education & Sports Science",
+          "short_name": "PESS",
+          "current_cost_bdt": "400000-600000",
+          "good_at_subjects": ["Sports", "Biology", "Fitness"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Fitness Trainer",
+            "Sports Coach",
+            "Sports Manager"
+          ],
+          "bangladesh_job_competition": "Low-Medium",
+          "abroad_demand": "Medium"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Engineering",
+      "departments": [
+        {
+          "department": "Electrical and Electronic Engineering",
+          "short_name": "EEE",
+          "current_cost_bdt": "700000-900000",
+          "good_at_subjects": ["Physics", "Math", "Circuit Analysis"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Electrical Engineer",
+            "Power Engineer",
+            "Telecommunication Engineer"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Textile Engineering",
+          "short_name": "TE",
+          "current_cost_bdt": "650000-850000",
+          "good_at_subjects": ["Chemistry", "Physics", "Math"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Textile Engineer",
+            "Garments Technologist",
+            "Production Manager"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Civil Engineering",
+          "short_name": "CE",
+          "current_cost_bdt": "650000-850000",
+          "good_at_subjects": ["Math", "Physics", "Drawing"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Civil Engineer",
+            "Structural Engineer",
+            "Construction Engineer"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Information and Communication Engineering",
+          "short_name": "ICE",
+          "current_cost_bdt": "700000-900000",
+          "good_at_subjects": ["Networking", "Physics", "Math"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Network Engineer",
+            "Telecommunication Engineer",
+            "System Engineer"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Architecture",
+          "short_name": "ARCH",
+          "current_cost_bdt": "850000-1100000",
+          "good_at_subjects": ["Drawing", "Creativity", "Math"],
+          "average_class_days_per_week": 6,
+          "future_jobs": [
+            "Architect",
+            "Interior Designer",
+            "Urban Planner"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "Medium-High"
+        },
+        {
+          "department": "Robotics and Mechatronics Engineering",
+          "short_name": "RME",
+          "current_cost_bdt": "750000-950000",
+          "good_at_subjects": ["Physics", "Math", "Programming"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Robotics Engineer",
+            "Automation Engineer",
+            "Embedded Systems Engineer"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "Very High"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Business & Entrepreneurship",
+      "departments": [
+        {
+          "department": "Business Administration",
+          "short_name": "BBA",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Business", "Communication", "English"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Banker",
+            "HR Executive",
+            "Marketing Executive"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Management",
+          "short_name": "MGT",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Leadership", "Business"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Manager",
+            "Business Consultant",
+            "HR Manager"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Real Estate",
+          "short_name": "RE",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Marketing", "Communication"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Property Manager",
+            "Real Estate Consultant"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Tourism & Hospitality Management",
+          "short_name": "THM",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Communication", "English", "Management"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Hotel Manager",
+            "Tour Manager",
+            "Hospitality Executive"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Innovation & Entrepreneurship",
+          "short_name": "IE",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Creativity", "Leadership", "Business"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Entrepreneur",
+            "Startup Founder",
+            "Business Strategist"
+          ],
+          "bangladesh_job_competition": "Low",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Accounting",
+          "short_name": "ACC",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Math", "Accounting", "Finance"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Accountant",
+            "Auditor",
+            "Tax Consultant"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Medium"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Humanities & Social Science",
+      "departments": [
+        {
+          "department": "English",
+          "short_name": "ENG",
+          "current_cost_bdt": "350000-500000",
+          "good_at_subjects": ["English", "Writing", "Communication"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Teacher",
+            "Content Writer",
+            "Editor"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Law",
+          "short_name": "LAW",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["English", "Communication", "Memorization"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Lawyer",
+            "Judge",
+            "Legal Advisor"
+          ],
+          "bangladesh_job_competition": "Very High",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Journalism, Media and Communication",
+          "short_name": "JMC",
+          "current_cost_bdt": "400000-600000",
+          "good_at_subjects": ["Communication", "Writing", "Creativity"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Journalist",
+            "News Presenter",
+            "Media Executive"
+          ],
+          "bangladesh_job_competition": "High",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Development Studies",
+          "short_name": "DS",
+          "current_cost_bdt": "400000-600000",
+          "good_at_subjects": ["Research", "Social Science"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "NGO Officer",
+            "Development Researcher",
+            "Policy Analyst"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Health and Life Sciences",
+      "departments": [
+        {
+          "department": "Environmental Science and Disaster Management",
+          "short_name": "ESDM",
+          "current_cost_bdt": "500000-700000",
+          "good_at_subjects": ["Biology", "Environment", "Research"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Environmental Specialist",
+            "Climate Researcher"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Pharmacy",
+          "short_name": "PHARM",
+          "current_cost_bdt": "750000-950000",
+          "good_at_subjects": ["Biology", "Chemistry"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Pharmacist",
+            "Medical Researcher",
+            "Drug Analyst"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Nutrition and Food Engineering",
+          "short_name": "NFE",
+          "current_cost_bdt": "650000-850000",
+          "good_at_subjects": ["Biology", "Chemistry", "Food Science"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Nutrition Specialist",
+            "Food Engineer",
+            "Quality Control Officer"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Public Health",
+          "short_name": "BPH",
+          "current_cost_bdt": "500000-700000",
+          "good_at_subjects": ["Biology", "Communication"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Public Health Officer",
+            "Health Researcher"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "High"
+        },
+        {
+          "department": "Physical Education & Sports Science",
+          "short_name": "PESS",
+          "current_cost_bdt": "400000-600000",
+          "good_at_subjects": ["Sports", "Fitness", "Biology"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Fitness Trainer",
+            "Sports Coach"
+          ],
+          "bangladesh_job_competition": "Low-Medium",
+          "abroad_demand": "Medium"
+        },
+        {
+          "department": "Agricultural Science",
+          "short_name": "AGS",
+          "current_cost_bdt": "500000-700000",
+          "good_at_subjects": ["Biology", "Agriculture", "Chemistry"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Agricultural Officer",
+            "Researcher"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "Medium-High"
+        },
+        {
+          "department": "Genetic Engineering and Biotechnology",
+          "short_name": "GEB",
+          "current_cost_bdt": "700000-950000",
+          "good_at_subjects": ["Biology", "Chemistry", "Research"],
+          "average_class_days_per_week": 5,
+          "future_jobs": [
+            "Biotech Researcher",
+            "Genetic Engineer"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "Very High"
+        },
+        {
+          "department": "Fisheries",
+          "short_name": "FISH",
+          "current_cost_bdt": "450000-650000",
+          "good_at_subjects": ["Biology", "Aquaculture", "Environment"],
+          "average_class_days_per_week": 4,
+          "future_jobs": [
+            "Fisheries Officer",
+            "Aquaculture Specialist",
+            "Marine Researcher"
+          ],
+          "bangladesh_job_competition": "Medium",
+          "abroad_demand": "Medium-High"
+        }
+      ]
+    }
+  ]
+}
