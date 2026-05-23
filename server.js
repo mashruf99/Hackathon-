@@ -41,7 +41,7 @@ app.post('/api/recommend', async (req, res) => {
 
 const path = require('path');
 app.use(express.static(path.join(__dirname, 'client/dist'))); 
-app.get('*', (req, res) => {
+app.get('(.*)', (req, res) => {
     if (!req.path.startsWith('/api')) {
         res.sendFile(path.join(__dirname, 'client/dist/index.html'));
     }
