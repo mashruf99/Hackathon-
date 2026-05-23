@@ -12,10 +12,6 @@ app.use(cors());
 const groq = new Groq({ apiKey: process.env.API_KEY });
 const diuData = require('./data.json');
 
-app.get('/', (req, res) => {
-    res.send("Running");
-});
-
 app.post('/api/recommend', async (req, res) => {
     const { budget, subjects, goals } = req.body;
     const userPrompt = `আমি Daffodil International University (DIU)-তে ভর্তি হতে চাই। আমার বাজেট: ${budget} BDT। পছন্দের সাবজেক্ট: ${subjects}। ফিউচার গোল: ${goals}।`;
@@ -46,7 +42,9 @@ app.post('/api/recommend', async (req, res) => {
 const path = require('path');
 app.use(express.static(path.join(__dirname, 'client/dist'))); 
 app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'client/dist/index.html'));
+    if (!req.path.startsWith('/api')) {
+        res.sendFile(path.join(__dirname, 'client/dist/index.html'));
+    }
 });
 
 const PORT = process.env.PORT || 5000;
