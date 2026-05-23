@@ -13,7 +13,7 @@ function App() {
     e.preventDefault();
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:5000/api/recommend', {
+      const res = await fetch('https://hackathon-c8jr.onrender.com/api/recommend', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData)
