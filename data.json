@@ -8,7 +8,9 @@
         {
           "department": "Computer Science and Engineering",
           "short_name": "CSE",
-          "current_cost_bdt": "650000-850000",
+          "total_cost_bdt": "1020450",
+          "total_tuition_fee_bdt": "782250",
+          "per_semester": "85000",
           "good_at_subjects": ["Math", "Programming", "Logic", "Problem Solving", "Software Design"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -35,7 +37,9 @@
         {
           "department": "Software Engineering",
           "short_name": "SWE",
-          "current_cost_bdt": "650000-850000",
+          "total_cost_bdt": "952500",
+          "total_tuition_fee_bdt": "709500",
+          "per_semester": "78000-80000",
           "good_at_subjects": ["Programming", "Math", "Logic", "Software Design"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -66,7 +70,9 @@
         {
           "department": "Multimedia and Creative Technology",
           "short_name": "MCT",
-          "current_cost_bdt": "500000-700000",
+          "total_cost_bdt": "744150",
+          "total_tuition_fee_bdt": "508950",
+          "per_semester": "60000",
           "good_at_subjects": ["Creativity", "Design", "Animation"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -81,7 +87,9 @@
         {
           "department": "Computing and Information Systems",
           "short_name": "CIS",
-          "current_cost_bdt": "600000-800000",
+          "total_cost_bdt": "755600",
+          "total_tuition_fee_bdt": "506900",
+          "per_semester": "60000",
           "good_at_subjects": ["Programming", "Database", "Networking"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -95,7 +103,9 @@
         {
           "department": "Information Technology and Management",
           "short_name": "ITM",
-          "current_cost_bdt": "550000-750000",
+          "total_cost_bdt": "757200",
+          "total_tuition_fee_bdt": "497400",
+          "per_semester": "60000",
           "good_at_subjects": ["Business", "Technology", "Management"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -107,23 +117,11 @@
           "abroad_demand": "High"
         },
         {
-          "department": "Environmental Science & Disaster Management",
-          "short_name": "ESDM",
-          "current_cost_bdt": "500000-700000",
-          "good_at_subjects": ["Biology", "Environment", "Geography"],
-          "average_class_days_per_week": 4,
-          "future_jobs": [
-            "Environmental Specialist",
-            "Disaster Management Officer",
-            "Climate Researcher"
-          ],
-          "bangladesh_job_competition": "Medium",
-          "abroad_demand": "High"
-        },
-        {
           "department": "Physical Education & Sports Science",
           "short_name": "PESS",
-          "current_cost_bdt": "400000-600000",
+          "total_cost_bdt": " 609400",
+          "total_tuition_fee_bdt": "390900",
+          "per_semester": "50000",
           "good_at_subjects": ["Sports", "Biology", "Fitness"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -142,7 +140,9 @@
         {
           "department": "Electrical and Electronic Engineering",
           "short_name": "EEE",
-          "current_cost_bdt": "700000-900000",
+          "total_cost_bdt": " 843200",
+          "total_tuition_fee_bdt": "590700",
+          "per_semester": "70000",
           "good_at_subjects": ["Physics", "Math", "Circuit Analysis"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -156,7 +156,9 @@
         {
           "department": "Textile Engineering",
           "short_name": "TE",
-          "current_cost_bdt": "650000-850000",
+          "total_cost_bdt": "786200",
+          "total_tuition_fee_bdt": "530200",
+          "per_semester": "65000",
           "good_at_subjects": ["Chemistry", "Physics", "Math"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -170,7 +172,9 @@
         {
           "department": "Civil Engineering",
           "short_name": "CE",
-          "current_cost_bdt": "650000-850000",
+          "total_cost_bdt": "833850",
+          "total_tuition_fee_bdt": "587725",
+          "per_semester": "70000",
           "good_at_subjects": ["Math", "Physics", "Drawing"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -184,7 +188,9 @@
         {
           "department": "Information and Communication Engineering",
           "short_name": "ICE",
-          "current_cost_bdt": "700000-900000",
+          "total_cost_bdt": "703000",
+          "total_tuition_fee_bdt": "475000",
+          "per_semester": "58000",
           "good_at_subjects": ["Networking", "Physics", "Math"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -198,7 +204,9 @@
         {
           "department": "Architecture",
           "short_name": "ARCH",
-          "current_cost_bdt": "850000-1100000",
+          "total_cost_bdt": "924600",
+          "total_tuition_fee_bdt": "647300",
+          "per_semester": "90000",
           "good_at_subjects": ["Drawing", "Creativity", "Math"],
           "average_class_days_per_week": 6,
           "future_jobs": [
@@ -212,7 +220,9 @@
         {
           "department": "Robotics and Mechatronics Engineering",
           "short_name": "RME",
-          "current_cost_bdt": "750000-950000",
+          "total_cost_bdt": "937950",
+          "total_tuition_fee_bdt": "685450",
+          "per_semester": "78000",
           "good_at_subjects": ["Physics", "Math", "Programming"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -231,7 +241,9 @@
         {
           "department": "Business Administration",
           "short_name": "BBA",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "789575",
+          "total_tuition_fee_bdt": "574675",
+          "per_semester": "65000",
           "good_at_subjects": ["Business", "Communication", "English"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -245,7 +257,9 @@
         {
           "department": "Management",
           "short_name": "MGT",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "761000",
+          "total_tuition_fee_bdt": "541800",
+          "per_semester": "62000",
           "good_at_subjects": ["Leadership", "Business"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -259,7 +273,9 @@
         {
           "department": "Real Estate",
           "short_name": "RE",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "706400",
+          "total_tuition_fee_bdt": "499400",
+          "per_semester": "56000",
           "good_at_subjects": ["Marketing", "Communication"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -272,7 +288,9 @@
         {
           "department": "Tourism & Hospitality Management",
           "short_name": "THM",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "698600",
+          "total_tuition_fee_bdt": "459600",
+          "per_semester": "56000",
           "good_at_subjects": ["Communication", "English", "Management"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -286,7 +304,9 @@
         {
           "department": "Innovation & Entrepreneurship",
           "short_name": "IE",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "733950",
+          "total_tuition_fee_bdt": "474600",
+          "per_semester": "60000",
           "good_at_subjects": ["Creativity", "Leadership", "Business"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -300,7 +320,9 @@
         {
           "department": "Accounting",
           "short_name": "ACC",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "761000",
+          "total_tuition_fee_bdt": "541800",
+          "per_semester": "62000",
           "good_at_subjects": ["Math", "Accounting", "Finance"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -319,7 +341,9 @@
         {
           "department": "English",
           "short_name": "ENG",
-          "current_cost_bdt": "350000-500000",
+          "total_cost_bdt": "694500",
+          "total_tuition_fee_bdt": "491400",
+          "per_semester": "55000",
           "good_at_subjects": ["English", "Writing", "Communication"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -333,7 +357,9 @@
         {
           "department": "Law",
           "short_name": "LAW",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "954600",
+          "total_tuition_fee_bdt": "727600",
+          "per_semester": "116000",
           "good_at_subjects": ["English", "Communication", "Memorization"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -347,7 +373,9 @@
         {
           "department": "Journalism, Media and Communication",
           "short_name": "JMC",
-          "current_cost_bdt": "400000-600000",
+          "total_cost_bdt": "654000",
+          "total_tuition_fee_bdt": "420000",
+          "per_semester": "52000",
           "good_at_subjects": ["Communication", "Writing", "Creativity"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -358,20 +386,6 @@
           "bangladesh_job_competition": "High",
           "abroad_demand": "Medium"
         },
-        {
-          "department": "Development Studies",
-          "short_name": "DS",
-          "current_cost_bdt": "400000-600000",
-          "good_at_subjects": ["Research", "Social Science"],
-          "average_class_days_per_week": 4,
-          "future_jobs": [
-            "NGO Officer",
-            "Development Researcher",
-            "Policy Analyst"
-          ],
-          "bangladesh_job_competition": "Medium",
-          "abroad_demand": "High"
-        }
       ]
     },
     {
@@ -380,7 +394,9 @@
         {
           "department": "Environmental Science and Disaster Management",
           "short_name": "ESDM",
-          "current_cost_bdt": "500000-700000",
+          "total_cost_bdt": "612200",
+          "total_tuition_fee_bdt": "389600",
+          "per_semester": "50000",
           "good_at_subjects": ["Biology", "Environment", "Research"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -393,7 +409,9 @@
         {
           "department": "Pharmacy",
           "short_name": "PHARM",
-          "current_cost_bdt": "750000-950000",
+          "total_cost_bdt": "1118500",
+          "total_tuition_fee_bdt": "842700",
+          "per_semester": "140000",
           "good_at_subjects": ["Biology", "Chemistry"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -407,7 +425,9 @@
         {
           "department": "Nutrition and Food Engineering",
           "short_name": "NFE",
-          "current_cost_bdt": "650000-850000",
+          "total_cost_bdt": "699000",
+          "total_tuition_fee_bdt": "447000",
+          "per_semester": "56000",
           "good_at_subjects": ["Biology", "Chemistry", "Food Science"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -421,7 +441,9 @@
         {
           "department": "Public Health",
           "short_name": "BPH",
-          "current_cost_bdt": "500000-700000",
+          "total_cost_bdt": "658800",
+          "total_tuition_fee_bdt": "406800",
+          "per_semester": "53000",
           "good_at_subjects": ["Biology", "Communication"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -434,7 +456,9 @@
         {
           "department": "Physical Education & Sports Science",
           "short_name": "PESS",
-          "current_cost_bdt": "400000-600000",
+          "total_cost_bdt": "609400",
+          "total_tuition_fee_bdt": "390900",
+          "per_semester": "50000",
           "good_at_subjects": ["Sports", "Fitness", "Biology"],
           "average_class_days_per_week": 4,
           "future_jobs": [
@@ -447,7 +471,9 @@
         {
           "department": "Agricultural Science",
           "short_name": "AGS",
-          "current_cost_bdt": "500000-700000",
+          "total_cost_bdt": " 694350",
+          "total_tuition_fee_bdt": "481350",
+          "per_semester": "55000",
           "good_at_subjects": ["Biology", "Agriculture", "Chemistry"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -460,7 +486,9 @@
         {
           "department": "Genetic Engineering and Biotechnology",
           "short_name": "GEB",
-          "current_cost_bdt": "700000-950000",
+          "total_cost_bdt": "930000",
+          "total_tuition_fee_bdt": "692600",
+          "per_semester": "75000",
           "good_at_subjects": ["Biology", "Chemistry", "Research"],
           "average_class_days_per_week": 5,
           "future_jobs": [
@@ -473,7 +501,9 @@
         {
           "department": "Fisheries",
           "short_name": "FISH",
-          "current_cost_bdt": "450000-650000",
+          "total_cost_bdt": "792400",
+          "total_tuition_fee_bdt": "558400",
+          "per_semester": "65000",
           "good_at_subjects": ["Biology", "Aquaculture", "Environment"],
           "average_class_days_per_week": 4,
           "future_jobs": [
